@@ -2,7 +2,7 @@
 
 A lightweight, open set of agentic humane UX tokens for ethical design.
 
-[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/YOURPAYPALHANDLE)
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/nicknelo2020)
 
 ## Categories & Base Tokens
 - **Boundary**: `pause-intent`, `consent-gate`, `session-timeout`
